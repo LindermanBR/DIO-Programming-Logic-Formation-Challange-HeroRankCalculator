@@ -1,4 +1,7 @@
-# 2️⃣ Ranked Matches Calculator
+# DIO Ranked Matches Calculator
+
+Java console app to receive an input and based on the logic bellow output some info.
+
 **What should be used**
 
 - Variables
